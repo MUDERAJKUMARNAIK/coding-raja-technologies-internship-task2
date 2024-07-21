@@ -47,10 +47,6 @@ Ensure you have the Indian food image dataset prepared and stored in an accessib
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
----
 
-Feel free to customize this README further based on your specific project details and requirements.
